@@ -1,9 +1,10 @@
 %-------------------------------------------------
-% MAFTDSP Matlab Assignment 1 - Beyond basics 
+% Audio Signal Processing with Matlab
+%
 %
 % Phase-vocoder with pitch shifting
 %
-% I've noticed that the pitch shift combined with the previous phase vocoder can make it a voice changer
+% The pitch shift combined with the previous phase vocoder can make it a voice changer
 % To use as a voicce changer, ensure pitch_shift_factor*Q=1,(e.g I've pre-set this as 3 tone lower,for female voice changing to a male voice)
 % if set pitch_shift_factor =1,play with Q, it's phase vocoder,changing speed without changing pitch
 % if set Q=1, play with pitch_shift_factor, it will change both speed and pitch
