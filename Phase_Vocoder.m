@@ -124,7 +124,7 @@ end
 sound(y,Fs);
 
 % Call plot spectrogram function
-MA1_s2536408_HU_myspec(x, Fs, N, O);
+ShowSpectrogram(x, Fs, N, O);
 
 %function ppa: wrap any phase angle to phase over[-pi,pi]
 function wrapped_phase = ppa(phase)
