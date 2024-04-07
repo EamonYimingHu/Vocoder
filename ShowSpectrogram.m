@@ -1,5 +1,5 @@
 %-------------------------------------------------
-% MAFTDSP Matlab Assignment 1 - Part Three
+% Audio Signal Processing with Matlab
 %
 % Code Spectrogram for TS and PV
 %
