@@ -7,7 +7,7 @@
 %-------------------------------------------------
 
 
-function MA1_s2536408_HU_myspec(x, Fs, N, O)
+function ShowSpectrogram(x, Fs, N, O)
     L = length(x);
     HA = floor((1 - O) * N);
     
