@@ -1,7 +1,12 @@
 %-------------------------------------------------
-% MAFTDSP Matlab Assignment 1 - Part One
+% Audio Signal Processing with Matlab
 %
-% A basic time stretcher
+% A basic time stretcher. 
+% Preset Parameters are as Follow
+%
+% Q is strech factor  Q > 1 for time expansion; Q < 1 time compression 
+% 
+% For different Q-values, different frame_time and overlap factors O are adjusted accorddingly to ensure the quality of output signal.
 % For Q=0.75;suitable frame_time=0.057（N=2514）O=0.75(HA=629)
 % For Q=1.25;suitable frame_time=0.07  (N=2558) O=0.8(HA=617),pre-set this already
 %
