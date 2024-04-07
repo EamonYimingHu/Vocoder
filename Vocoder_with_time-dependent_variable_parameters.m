@@ -1,5 +1,5 @@
 %-------------------------------------------------
-% MAFTDSP Matlab Assignment 1 - Beyond Basics
+% Audio Signal Processing with Matlab
 %
 % Phase-vocoder with time variant Q(t)
 %
