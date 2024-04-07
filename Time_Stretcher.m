@@ -106,5 +106,5 @@ end
 soundsc(y, Fs);
 
 % Call plot spectrogram function
-MA1_s2536408_HU_myspec(x, Fs, N, O)
+ShowSpectrogram(x, Fs, N, O)
 
