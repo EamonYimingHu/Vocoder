@@ -1,3 +1,5 @@
+基于声码器Vocoder进行的音频DSP处理。利用STFT（短时距傅里叶变换）以及插值方法，分部实现了TimeStretcher用于改变音频的速度，PhaseVocoder相位声码器，以及变声器。并以变声器实现逻辑为基础，使用JUCE构建变声器插件
+
 # Time_Stretcher
 
 Start with a basic Time Stretcher. The problem is that we are not accounting for changes in the phase of our 
